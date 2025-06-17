@@ -27,7 +27,3 @@ mongoose.connect("mongodb+srv://jobanputradhruv11:Dhruv%403530@backenddb.q2eukca
     console.log('Failed to connect to MongoDB');
 });
 
-
-
-
-
